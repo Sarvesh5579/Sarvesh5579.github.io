@@ -1,6 +1,6 @@
 ## Portfolio
 
-![Your Image](https://img.freepik.com/premium-photo/cat-computer_815088-234.jpg?w=740)
+![Your Image](https://external-preview.redd.it/uW7ahTN5qYBLuTQwtaBuJ3FB14alM40tsnonYsz25E4.jpg?auto=webp&s=ea7d366790c061c4bdaee00d968764471cd2192e)
 
 Welcome to my personal portfolio! I'm a dedicated **developer** with expertise in a variety of programming languages and technologies. Below you'll find detailed information about my background, technical skills, projects, and contact info.
 
